@@ -1,0 +1,10 @@
+{
+		"title": "Ichika's Coffee House",
+		"description":"Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world",
+		"hours": [
+			{"day": "Mon-Fri", "time":"6 am to 10 pm"},
+			{"day": "Saturday", "time":"7 am to 11 pm"},
+			{"day": "Sunday", "time":"7 am to 9 pm"}
+		]
+
+	}
