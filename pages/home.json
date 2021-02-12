@@ -1,0 +1,31 @@
+{
+    "hero": {
+        "header": "Drink Healthy <br> and Natural Coffee.",
+        "subtext":"At Ichika's House of Coffee, we only brew the most freshest coffee from all around the world. we also serve pastries such as cupcakes and pies.",
+        "bg_image": "images/barista.jpg"
+    },
+    "about": {
+        "header": "Welcome to Ichika's Coffee House.",
+        "subtext":"You can enjoy and purchase a variety of our products, even Latte-art, dont be shy and ask for more info. ",
+        "bg_image":  "images/barista_2.jpg",
+        "images": [
+            {"image":"/images/neko.jpg", "caption": "Mochis"},
+            {"image":"/images/fish.jpg", "caption": "Takoyaki"},
+            {"image":"/images/coffee.jpg", "caption": "Coffee"}
+        ]
+    },
+    "team":{
+        "subheader": "Team",
+        "header": "Meet The Team",
+        "background": "/images/house.jpg",
+        "member": [
+            {"name": "Ichika", "image": "/images/person_1.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "owner"},
+            {"name": "Itsuki", "image": "/images/person_3.jpg", "quote":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.", "position": "co-owner"}
+        ]
+    },
+    "order": {
+        "subheader": "Order",
+        "header": "Place an Order",
+        "img_background":"/images/barista3.jpg"
+    }
+}
